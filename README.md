@@ -2,6 +2,7 @@
 
 ## Introduction
 作为熟悉python编程语言的一个小项目，进一步了解其中函数、类、模块等的使用。
+（内容参考自《Python编程：从入门到实践》，作者Eric Matthes）
 
 ## Architecture
 * alien_invasion.py
